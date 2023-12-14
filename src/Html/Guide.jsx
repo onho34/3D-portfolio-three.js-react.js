@@ -27,7 +27,7 @@ export default () => {
         onClick={(e) => handleToggle(e)}
       >
         <img
-          src="/avatar.webp"
+          src="/avatar.png"
           alt="toggle guide button"
           width="30"
           height="30"
